@@ -5,11 +5,11 @@
     "keywords": [
         "eleventy"
     ],
-    "homepage": "https://mehrlicht.photos",
+    "homepage": "https://photoblog-moritz.vercel.app",
     "bugs": "https://github.com/MoritzLost/MehrLicht/issues",
     "repository": {
         "type": "git",
-        "url": "https://github.com/MoritzLost/MehrLicht.git"
+        "url": "https://github.com/uvacoder/photoblog-moritz.git"
     },
     "license": "UNLICENSED",
     "author": "MoritzLost <m@moritzlost.de>",
